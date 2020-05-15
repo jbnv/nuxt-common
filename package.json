@@ -1,0 +1,13 @@
+{
+    "name": "nuxt-common",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "jasmine"
+    },
+    "author": "Jay Bienvenu",
+    "license": "ISC",
+    "devDependencies": {
+      "jasmine": "^2.5.2"
+    }
+  }
+  
